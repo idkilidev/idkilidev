@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @idkilidev
+- 👀 I’m interested in Programing With Using js/java languages
+- 🌱 I’m currently learning html
+- 📫 How to reach me on Discord: idkili#7810
